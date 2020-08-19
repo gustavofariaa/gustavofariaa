@@ -1,4 +1,4 @@
-[![Twitter](https://img.shields.io/badge/@gufariaa-262626?style=for-the-badge&logo=twitter)](https://twitter.com/gufariaa)
-[![Linkedin](https://img.shields.io/badge/Gustavo%20Faria-262626?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/gustavofariaa)
+[![Linkedin](https://img.shields.io/badge/Gustavo%20Faria-232323?style=for-the-badge&logo=linkedin&logoColor=FFFFFF)](https://www.linkedin.com/in/gustavofariaa)
+[![Twitter](https://img.shields.io/badge/@gufariaa-232323?style=for-the-badge&logo=twitter&logoColor=FFFFFF)](https://twitter.com/gufariaa)
 
 # Hi, I'm Gustavo 👋🏻👨🏻‍💻
