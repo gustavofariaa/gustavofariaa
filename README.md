@@ -3,4 +3,4 @@
 
 # Hi, I'm Gustavo 👋🏻👨🏻‍💻
 
-Mobile Developer, focused on Android with Kotlin and Java. Also an enthusiast in Frontend, a lover of design and with a great passion for UI/UX.
+Mobile developer, focused on Android with Kotlin and Java. Also an enthusiast in Frontend, a lover of design and with a great passion for UI/UX.
